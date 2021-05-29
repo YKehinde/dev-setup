@@ -1,6 +1,23 @@
 # Dev Set up
 
-[[TOC]]
+<!-- TOC -->
+
+- [Dev Set up](#dev-set-up)
+  - [OMF - Oh My Fish](#omf---oh-my-fish)
+  - [Homebrew](#homebrew)
+  - [Node Package Manager](#node-package-manager)
+  - [Nodemon](#nodemon)
+  - [Node Version Manager](#node-version-manager)
+  - [Yo](#yo)
+  - [Babel](#babel)
+  - [Majestic](#majestic)
+  - [NPX](#npx)
+  - [Node Sass](#node-sass)
+  - [VS Code](#vs-code)
+    - [Extension Import/Export](#extension-importexport)
+    - [Extensions](#extensions)
+
+<!-- /TOC -->
 
 ## OMF - Oh My Fish
 https://github.com/oh-my-fish/oh-my-fish
