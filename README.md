@@ -4,6 +4,7 @@
 
 - [Dev Set up](#dev-set-up)
   - [OMF - Oh My Fish](#omf---oh-my-fish)
+    - [Fish and iTerm2](#fish-and-iterm2)
   - [Homebrew](#homebrew)
   - [Node Package Manager](#node-package-manager)
   - [Nodemon](#nodemon)
@@ -16,11 +17,15 @@
   - [VS Code](#vs-code)
     - [Extension Import/Export](#extension-importexport)
     - [Extensions](#extensions)
+      - [Other plugins](#other-plugins)
 
 <!-- /TOC -->
 
 ## OMF - Oh My Fish
 https://github.com/oh-my-fish/oh-my-fish
+
+### Fish and iTerm2
+https://lobster1234.github.io/2017/04/08/setting-up-fish-and-iterm2/
 
 ## Homebrew
 System - https://brew.sh/
@@ -58,4 +63,7 @@ https://marketplace.visualstudio.com/items?itemName=josh-walters.vscode-ext-impo
 
 ### Extensions
 [extensions.json](extensions.json)
+
+#### Other plugins
+https://github.com/YKehinde/My-Web-Resources#vscode-plugins
 
